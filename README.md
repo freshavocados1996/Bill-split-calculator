@@ -1,2 +1,6 @@
 # Bill-split-calculator
-Bill split calculator designed with Streamlit
+This is a simple, easy-to-use bill split calculator. The app was made with Streamlit. 
+
+## Features
+1. Tip calculator: Calculate tips based on the set percentage.
+2. Quick and accurate bill splitting: Type in the number of people, and the calculator would split the bills.
